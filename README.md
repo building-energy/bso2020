@@ -1,2 +1,2 @@
 # bso2020
-Mockup of BSO2020 website
+The BSO2020 website
